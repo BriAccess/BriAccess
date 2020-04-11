@@ -1,0 +1,5 @@
+# Information about the CODEOWNERS file:
+# https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners#about-code-owners
+
+# All team members are global code owners, and will be requested for review on all pull requests
+* @Alxander64 @HarshNagra @KameronSturgess @lukepereira @nakamin @RiaPrakash @SpencerMcMurray
